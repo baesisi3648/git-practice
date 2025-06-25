@@ -22,3 +22,4 @@ commit 모음 -> git commit
 add
 
 commit (새 파일 추가)
+
