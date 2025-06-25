@@ -24,4 +24,9 @@ add
 commit (새 파일 추가)
 
 
-수정해보자
+github 업로드 연습해보기
+
+1. 수정
+2. add (스테이지)
+3. commit (촬영)
+4. git push origin main(클라우드로 이동)
